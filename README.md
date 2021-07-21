@@ -20,11 +20,6 @@
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 
-## ▎📚 Blog For Learning
-- ### https://velog.io/@colorful-stars
-
-## ▎🧑‍💻 Portfolio Notion
-- ### https://www.notion.so/3d45c6bd2cbd4f938873a4bd12e23375
 
 <!-- <h3 align='center'>Hi there 👋</h3>
 <br>
