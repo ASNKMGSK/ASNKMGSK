@@ -18,4 +18,6 @@
   <span><img src="https://img.shields.io/badge/scikit learn-f24e1e?style=flat&logo=scikit-learn&logoColor=white"/></span><br/>
 
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span><br/>
+  
+- Cloud : <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
