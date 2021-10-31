@@ -19,4 +19,4 @@
 
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
   
-- Cloud : <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></span></p>
+- Cloud : <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/></span></p>
