@@ -7,9 +7,9 @@
 ## ▎🛠 Tech Stacks
 - Langueage : <span><img src="https://img.shields.io/badge/Python-e34f26?style=flat&logo=Python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C-1572b6?style=flat&logo=C&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></span><br/>   
 <span><img src="https://img.shields.io/badge/JAVA-61dafb?style=flat&logo=java&logoColor=white"/>
 <span><img src="https://img.shields.io/badge/R-FCA121?style=flat&logo=R&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></span><br/>   
 
 - Database :
 <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></span><br/>
