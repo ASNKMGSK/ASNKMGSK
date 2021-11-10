@@ -13,7 +13,7 @@
 
 - Database : <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></span><br/>
 
-- AI : <span><img src="https://img.shields.io/badge/TensorFlow-0052cc?style=flat&logo=TensorFlow&logoColor=white"/></span>
+- AI : <span><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Pytorch-D24939?style=flat&logo=Pytorch&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/scikit learn-f24e1e?style=flat&logo=scikit-learn&logoColor=white"/></span><br/>
 
