@@ -5,7 +5,7 @@
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BoYeonJang&layout=compact&theme=material-palenight) -->
 
 ## ▎🛠 Tech Stacks
-- Langueage : <span><img src="https://img.shields.io/badge/Python-e34f26?style=flat&logo=Python&logoColor=white"/></span>
+- Langueage : <span><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/></span>
 <span><img src="https://img.shields.io/badge/C-1572b6?style=flat&logo=C&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JAVA-61dafb?style=flat&logo=java&logoColor=white"/></span>
