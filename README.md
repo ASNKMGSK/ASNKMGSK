@@ -14,10 +14,10 @@
 - Database : <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></span><br/>
 
 - AI : <span><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/Pytorch-D24939?style=flat&logo=Pytorch&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Pytorch-%23F7931E.svg?style=flat&logo=Pytorch&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/scikit learn-f24e1e?style=flat&logo=scikit-learn&logoColor=white"/></span><br/>
 
-- Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
+- Version Control : <span><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white"/></span>
   
 - Cloud : <img src="https://img.shields.io/badge/Amazon AWS-%23FF9900.svg?style=flat&logo=Amazon%20AWS&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white"/></span>
