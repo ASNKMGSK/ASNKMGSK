@@ -1,4 +1,4 @@
-# ▎안녕하세요~<br>▎데이터분석, 퀀트 트레이딩에 관심이 많은<br>▎맹영준입니다.
+# ▎안녕하세요<br>▎데이터분석, 퀀트 트레이딩에 관심이 많은<br>▎맹영준입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=ASNKMGSK&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASNKMGSK&layout=compact&theme=material-palenight)
