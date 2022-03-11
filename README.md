@@ -23,7 +23,7 @@
 <span><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white"/></span>
 <br/>
 <br/>
-  ###🔸 gIthub Repositories 설명<br/>
+ ### 🔸 gIthub Repositories 설명<br/>
      Uni.Rl-Minimal -Trading : 대학에서 진행한 강화학습 트레이딩 모델<br/>
      AI-Study-and-Mini-Projects : 국비지원교육에서 공부한 내용<br/>
      Reinforcement-Learning : 국비지원교육 및 DAT-I랩에서 진행한 프로젝트, 강화학습 공부 내용<br/>
