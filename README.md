@@ -30,3 +30,4 @@
      Reinforcement-Learning : 국비지원교육 및 DAT-I랩에서 진행한 프로젝트, 강화학습 공부 내용  
      Basic-Machine-Learning : 기초적인 ML 실습  
      Data-Analysis-Study : 데이터 분석 방법론 공부 및 실습  
+     G-D.A : 2022 데이터 분석 청년 인재 양성사업 실습
