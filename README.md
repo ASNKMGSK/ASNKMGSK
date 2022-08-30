@@ -13,10 +13,11 @@
 
 - Database : <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></span>
 
-- AI : <span><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/></span>
+- Data Science : <span><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Pytorch-%23EE4C2C.svg?style=flat&logo=Pytorch&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/scikit learn-f24e1e?style=flat&logo=scikit-learn&logoColor=white"/></span>
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 - Version Control : <span><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white"/></span>
   
